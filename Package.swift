@@ -23,7 +23,7 @@ let package = Package(
         ),
         .executableTarget(
             name: "Aula_5"
-        ),
+    ),
     ]
 )
 
